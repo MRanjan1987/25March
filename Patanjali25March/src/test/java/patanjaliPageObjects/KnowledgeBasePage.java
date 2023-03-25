@@ -22,5 +22,6 @@ public class KnowledgeBasePage extends BasePage {
 	public void knowledgeBaseLink() throws InterruptedException {
 
 		OneTierSubMenue(knowledgeBase, knowledgeBaseSubMenuLinks);
+		printText("Hi");
 	}
 }
