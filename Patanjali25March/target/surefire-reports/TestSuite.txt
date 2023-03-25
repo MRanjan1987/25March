@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 84.579 s <<< FAILURE! - in TestSuite
+patanjaliTestCases.AllCategoriesLinkTest.AllCategoryLinksTest  Time elapsed: 12.809 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable: [object HTMLLIElement] has no size and location
+  (Session info: chrome=111.0.5563.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MADHUR', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.110, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\madhur\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af73c62e0b4b08f0241a2b2b980e247
+	at patanjaliTestCases.AllCategoriesLinkTest.AllCategoryLinksTest(AllCategoriesLinkTest.java:14)
+

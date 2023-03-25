@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-17T00:53:41 IST" name="Default suite" finished-at="2021-05-17T00:53:54 IST" duration-ms="12725">
+    <groups>
+    </groups>
+    <test started-at="2021-05-17T00:53:41 IST" name="Default test" finished-at="2021-05-17T00:53:54 IST" duration-ms="12725">
+      <class name="bangbangTestCases.RoughPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bangbangTestCases.RoughPageTest@1fb19a0]" started-at="2021-05-17T00:53:41 IST" name="setUp" finished-at="2021-05-17T00:53:46 IST" duration-ms="5150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:bangbangTestCases.RoughPageTest@1fb19a0]" started-at="2021-05-17T00:53:46 IST" name="test" finished-at="2021-05-17T00:53:54 IST" duration-ms="7538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- bangbangTestCases.RoughPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
